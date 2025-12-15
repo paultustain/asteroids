@@ -1,3 +1,2 @@
 # asteroids
-
-Building an asteroids game using pygame. 
+Code has been moved to https://codeberg.org/paultustain/asteroids
